@@ -1,4 +1,4 @@
-#include "stm32f0xx_conf.h"
+#include "stm32f30x_conf.h"
 
 void SysTick_Handler(void) {
   static uint16_t tick = 0;
