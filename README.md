@@ -1,14 +1,14 @@
-A personal STM32F0 Discovery template.
+A personal STM32F3 Discovery template.
 
-Based on szczys template which can be found at https://github.com/szczys/stm32f0-discovery-basic-template .
+Based on mblythe86 template which can be found at https://github.com/mblythe86/stm32f3-discovery-basic-template .
 This changes the makefile so that the file structure looks like this:
 
   ../
 
-  stm32f0-discovery-basic-template/ 
+  stm32f3-discovery-basic-template/ 
 
   yourProjectHere/  
 
   ./ 
 
-It uses szczys's folder template as a base. You can modify this as you wish.
+It uses mblythe86's folder template as a base. You can modify this as you wish.
